@@ -1,0 +1,15 @@
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/bin/Debug/net6.0/Serpinskogo
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/bin/Debug/net6.0/Serpinskogo.deps.json
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/bin/Debug/net6.0/Serpinskogo.runtimeconfig.json
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/bin/Debug/net6.0/Serpinskogo.dll
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/bin/Debug/net6.0/Serpinskogo.pdb
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/obj/Debug/net6.0/Serpinskogo.csproj.AssemblyReference.cache
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/obj/Debug/net6.0/Serpinskogo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/obj/Debug/net6.0/Serpinskogo.AssemblyInfoInputs.cache
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/obj/Debug/net6.0/Serpinskogo.AssemblyInfo.cs
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/obj/Debug/net6.0/Serpinskogo.csproj.CoreCompileInputs.cache
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/obj/Debug/net6.0/Serpinskogo.dll
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/obj/Debug/net6.0/refint/Serpinskogo.dll
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/obj/Debug/net6.0/Serpinskogo.pdb
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/obj/Debug/net6.0/Serpinskogo.genruntimeconfig.cache
+/Users/catherine/Desktop/QA обучение/Magic/Serpinskogo/obj/Debug/net6.0/ref/Serpinskogo.dll
